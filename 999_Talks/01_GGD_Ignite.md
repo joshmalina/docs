@@ -1,7 +1,3 @@
-{
-"isolate" : "true"
-}
-
 ## Info
 
 Susan Buck (<http://thewc.co>)
